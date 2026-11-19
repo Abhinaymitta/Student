@@ -1,0 +1,6 @@
+com\learn\student\repository\StudentDetails.class
+com\learn\student\entity\Student.class
+com\learn\student\StudentApplication.class
+com\learn\student\repository\StudentRepository.class
+com\learn\student\service\StudentService.class
+com\learn\student\studentcontroller\StudentController.class
